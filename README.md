@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kin018&label=Profile%20views&color=0e75b6&style=flat" alt="kin018" /> </p>
 
-- 🔭 I’m currently working on **pursuing my AWS Solutions Architect certification**
+- 🔭 I’m currently working on **my AWS Solutions Architect certification**
 
 - 🌱 I’m currently learning **React**
 
