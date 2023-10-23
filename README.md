@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ken</h1>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<h1 align="center">Hi 👋, I'm Kenechukwu</h1>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kin018&label=Profile%20views&color=0e75b6&style=flat" alt="kin018" /> </p>
 
@@ -13,7 +16,6 @@
 
 - ⚡ Fun fact **I am an avid Fantasy/Dyansty Football Manager**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
