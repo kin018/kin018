@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, C#, AWS**
+- 💬 Ask me about **JavaScript, C#, AWS, Scrum**
 
 - 📫 How to reach me **kenndev018@outlook.com**
 
