@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenechukwu</h1>
+<h1 align="center">Hi 👋, I'm Kenechukwu N</h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
