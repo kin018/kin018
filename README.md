@@ -8,11 +8,13 @@
 
 - 🔭 I’m currently working on **my AWS Solutions Architect certification**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **JavaScript, C#, AWS, Scrum**
 
 - 📫 How to reach me **kenndev018@outlook.com**
+
+- 👨‍💻 All of my projects are available at [knwankwo.com](knwankwo.com)
 
 - ⚡ Fun fact **I am an avid Fantasy/Dyansty Football Manager**
 
